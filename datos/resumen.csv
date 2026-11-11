@@ -1,0 +1,19 @@
+﻿N,metodo,resultado,consultas,comparaciones_promedio,iteraciones_promedio,accesos_cubeta_promedio,cpu_medio_por_consulta_us,cpu_mediana_por_consulta_us
+10000,Secuencial,Exitosa,300,4953.49,4953.49,0.0,156.25,156.25
+10000,Secuencial,Fallida,300,10000.0,10000.0,0.0,416.6667,468.75
+10000,Binaria,Exitosa,300,23.587,12.293,0.0,52.0833,0.0
+10000,Binaria,Fallida,300,26.0,13.0,0.0,0.0,0.0
+10000,Hash encadenada,Exitosa,300,1.397,1.397,1.0,0.0,0.0
+10000,Hash encadenada,Fallida,300,0.717,0.717,1.0,0.0,0.0
+50000,Secuencial,Exitosa,300,25967.123,25967.123,0.0,1041.6667,1093.75
+50000,Secuencial,Fallida,300,50000.0,50000.0,0.0,2031.25,2031.25
+50000,Binaria,Exitosa,300,28.193,14.597,0.0,0.0,0.0
+50000,Binaria,Fallida,300,30.0,15.0,0.0,0.0,0.0
+50000,Hash encadenada,Exitosa,300,1.4,1.4,1.0,0.0,0.0
+50000,Hash encadenada,Fallida,300,0.797,0.797,1.0,0.0,0.0
+100000,Secuencial,Exitosa,300,45710.467,45710.467,0.0,2447.9167,2343.75
+100000,Secuencial,Fallida,300,100000.0,100000.0,0.0,5833.3333,5468.75
+100000,Binaria,Exitosa,300,30.52,15.76,0.0,0.0,0.0
+100000,Binaria,Fallida,300,32.0,16.0,0.0,0.0,0.0
+100000,Hash encadenada,Exitosa,300,1.36,1.36,1.0,0.0,0.0
+100000,Hash encadenada,Fallida,300,0.78,0.78,1.0,0.0,0.0

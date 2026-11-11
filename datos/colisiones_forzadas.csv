@@ -1,0 +1,5 @@
+﻿caso,clave,h_clave,encontrado,comparaciones,iteraciones
+Primera insertada,7,7,True,1,1
+Última insertada,503498,7,True,500,500
+Ausente mismo índice,706307,7,False,500,500
+Ausente cubeta vacía,8,8,False,0,0
